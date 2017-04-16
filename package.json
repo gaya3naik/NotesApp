@@ -1,0 +1,13 @@
+{
+  "name": "My Notes App",
+  "version": "0.0.0.1",
+  "description": "Simple app to write notes",
+  "main": "app.js",
+  "author": "GayathriN",
+  "dependencies": {
+    "mongoose": "^4.4.12",
+    "express": "^4.13.4",
+    "body-parser": "^1.4.3",
+    "method-override": "^2.1.3"
+  }
+}
